@@ -8,7 +8,7 @@ I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newslette
 
 **Here's a quick summary about me**:
 
-- ✨ Pronouns: He/him
+- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
@@ -17,4 +17,5 @@ I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newslette
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=10&layout=compact)](https://github.com/bolajiayodeji/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| ------------- | ------------- |
